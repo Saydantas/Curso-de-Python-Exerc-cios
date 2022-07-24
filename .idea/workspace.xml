@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16455bad-d715-485f-9bf7-fdb63972f434" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex005 Sucessor e antecessor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex006 Raiz Quadrada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex007.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex007 Calculo de média do aluno.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex008 Unidades de Medidas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex009 Tabuada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex010.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex010 Conversor de moeda.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex011.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex011 Calculo de m² .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex012.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex012 Desconto em compras.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex013.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex013 Porcentagem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercícios/ex014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercícios/ex014 Conversor de ºC para ºF.py" afterDir="false" />
-    </list>
+    <list default="true" id="16455bad-d715-485f-9bf7-fdb63972f434" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
