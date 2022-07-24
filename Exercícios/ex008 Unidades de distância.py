@@ -1,4 +1,4 @@
-'''Escreva um programa e o exiba convertido em Quilômetro, Hectômetro, decâmetro, Decímetro, Centímetro e Milímetros'''
+'''Escreva um programa que leia um mediad em metros, e a exiba convertido em Quilômetro, Hectômetro, decâmetro, Decímetro, Centímetro e Milímetros'''
 
 n = float(input('Digite um valor em metros: '))
 print(f'{n}m equivale a \n{n / 1000} km \n{n / 100} hm \n{n / 10} dam')
